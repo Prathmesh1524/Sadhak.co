@@ -11,12 +11,12 @@ function Navbar() {
           </Link>
         </li>
         <li>
-          <Link href="/jobs" className="text-blue-500 hover:text-blue-800">
+          <Link href={'private_jobs'} className="text-blue-500 hover:text-blue-800">
             Private Jobs
           </Link>
         </li>
         <li>
-          <Link href="/internships" className="text-blue-500 hover:text-blue-800">
+          <Link href={'gov_jobs'} className="text-blue-500 hover:text-blue-800">
             Goverment Jobs
           </Link>
         </li>
