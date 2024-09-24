@@ -5,9 +5,9 @@
 ## Getting Started
 
 
-1} Go to terminal check node is installed or not node --version \n
-2} clone this Repository \n
-3} First, run the development server \n
+1} Go to terminal check node is installed or not node --version 
+2} clone this Repository 
+3} First, run the development server 
 
 ```bash
 npm run dev
